@@ -1,0 +1,170 @@
+{
+  "id": "2059956",
+  "name": "font",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4139355",
+      "name": "向左圆箭头 左箭头 向左 线性",
+      "font_class": "xiangzuoyuanjiantouzuojiantouxiangzuoxianxing",
+      "unicode": "e8f7",
+      "unicode_decimal": 59639
+    },
+    {
+      "icon_id": "4699437",
+      "name": "向右圆箭头 右箭头 向右 面性",
+      "font_class": "xiangyouyuanjiantouyoujiantouxiangyoumianxing",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7550216",
+      "name": "向右",
+      "font_class": "xiangyou",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "7842261",
+      "name": "向左圆箭头 左箭头 向左 线性",
+      "font_class": "xiangzuoyuanjiantouzuojiantouxiangzuoxianxing1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8193782",
+      "name": "向右",
+      "font_class": "xiangyou1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8568860",
+      "name": "向右圆箭头 右箭头 线性",
+      "font_class": "xiangyouyuanjiantouyoujiantouxianxing",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9523130",
+      "name": "向右",
+      "font_class": "xiangyou2",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "9608671",
+      "name": "向右",
+      "font_class": "xiangyou3",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11109757",
+      "name": "向右",
+      "font_class": "last",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11265755",
+      "name": "向下",
+      "font_class": "down2",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11867100",
+      "name": "向右",
+      "font_class": "xiangyou4",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "12198443",
+      "name": "向下",
+      "font_class": "sort-bottom",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "12222740",
+      "name": "地图",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "12297893",
+      "name": "向右",
+      "font_class": "xiangzuo",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "12302004",
+      "name": "向下",
+      "font_class": "down21",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13676072",
+      "name": "向下",
+      "font_class": "down22",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13749213",
+      "name": "向下",
+      "font_class": "down-fill",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14167005",
+      "name": "向下",
+      "font_class": "down-fill1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14755217",
+      "name": "向下",
+      "font_class": "zhankai",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12911875",
+      "name": "下 拉",
+      "font_class": "xiala",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "954427",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    },
+    {
+      "icon_id": "5650479",
+      "name": "电话",
+      "font_class": "icon-test",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9186714",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    }
+  ]
+}

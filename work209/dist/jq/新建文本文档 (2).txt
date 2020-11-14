@@ -1,0 +1,7 @@
+$().ready(function() {
+        $(".testbox ul li").hover(function() {
+            $(this).find(".boxshow").show();
+        }, function() {
+            $(this).find(".boxshow").hide();
+        });
+    });

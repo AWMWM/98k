@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="../jq/jquery-1.11.0.js"></script>
+    <script></script>
+    <link rel="stylesheet" href="../css/shangpinliebiao.css">
+    <link rel="stylesheet" href="../file/iconfont.css">
+
+
+</head>
+
+<body>
+    <!--导航开始-->
+
+    <div class="nav">
+
+
+        <div class="warp">
+
+            <ul class="nav_ul1">
+                <li><a href=""><i class="iconfont icon-tubiaozhizuomoban"></i> 京东首页</a></li>
+                <li><a href="">配送到：河南</a></li>
+            </ul>
+
+
+            <ul class="nav_ul2">
+                <li><a href="">洋洋宝贝</a><span>|</span></li>
+                <li><a href="">我的订单</a><span>|</span></li>
+                <li><a href="">我的京东</a><span>|</span></li>
+                <li><a href="">京东会员</a><span>|</span></li>
+                <li><a href="">企业采购</a><span>|</span></li>
+                <li><a href="">京东手机</a><span>|</span></li>
+                <li><a href="">关注京东</a><span>|</span></li>
+                <li><a href="">客户服务</a><span>|</span></li>
+                <li><a href="">网站导航</a></li>
+            </ul>
+
+        </div>
+
+
+
+    </div>
+
+
+    <!--导航结束-->
+
+
+    <div class="header">
+        <div class="header_main">
+            <img src="../images/logo-201305-b.png" alt="">
+            <div class="forms">
+                <form action="">
+                    <input type="text" name="input_1">
+                    <!-- <i id="input_logo" class="iconfont icon-zhankai"></i> -->
+                    <!-- <input type="button" name="input_2 value=" "> -->
+                    <button><i class=" iconfont icon-xiangyou3 "></i></button>
+                    <button><a href="gouwuche.html"><i class="iconfont icon-gouwuche"></i> 我的购物车</a></button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div id="container">
+        <div id="container_main">
+            <!-- <div id="list_1">
+                <img src="../images/f8001c662f2985b1.jpg" alt="">
+                <span>PONY</span>
+                <span>$500</span>
+                <button>商品详情</button>
+            </div> -->
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        $(function() {
+
+            $.post("http://jx.xuzhixiang.top/ap/api/goods/goods-add.php?pagesize=3", {
+                pimg: "../images/f8001c662f2985b1.jpg",
+                pname: "PONY",
+                pdesc: "衣服",
+                pprice: 500.0,
+                uid: 100969
+            }, data => {
+                console.log(data);
+            });
+            $.post("http://jx.xuzhixiang.top/ap/api/goods/goods-add.php?pagesize=3", {
+                pimg: "../images/b655b708efe3f492.jpg",
+                pname: "PONY",
+                pdesc: "衣服",
+                pprice: 500.0,
+                uid: 100969
+            }, data => {
+                console.log(data);
+            })
+            $.post("http://jx.xuzhixiang.top/ap/api/goods/goods-add.php?pagesize=3", {
+                pimg: "../images/83e1f7a9598531a9.jpg",
+                pname: "PONY",
+                pdesc: "衣服",
+                pprice: 500.0,
+                uid: 100969
+            }, data => {
+                console.log(data);
+            })
+            $.post("http://jx.xuzhixiang.top/ap/api/goods/goods-add.php?pagesize=3", {
+                pimg: "../images/c7e17fdd90242b30 (1).jpg",
+                pname: "PONY",
+                pdesc: "衣服",
+                pprice: 500.0,
+                uid: 100969
+            }, data => {
+                console.log(data);
+            })
+            $.post("http://jx.xuzhixiang.top/ap/api/goods/goods-add.php?pagesize=3", {
+                pimg: "../images/55df485741d46fb7.jpg",
+                pname: "PONY",
+                pdesc: "衣服",
+                pprice: 500.0,
+                uid: 100969
+            }, data => {
+                console.log(data);
+            })
+            $.post("http://jx.xuzhixiang.top/ap/api/goods/goods-add.php?pagesize=3", {
+                pimg: "../images/67889ca8f9d954cc.jpg",
+                pname: "PONY",
+                pdesc: "衣服",
+                pprice: 500.0,
+                uid: 100969
+            }, data => {
+                console.log(data);
+            })
+            $.post("http://jx.xuzhixiang.top/ap/api/goods/goods-add.php?pagesize=3", {
+                pimg: "../images/e266e3571b8d12ba.jpg",
+                pname: "PONY",
+                pdesc: "衣服",
+                pprice: 500.0,
+                uid: 100969
+            }, data => {
+                console.log(data);
+            })
+
+        })
+    </script>
+    <script src="../js/shangpinliebiao.js"></script>
+</body>
+
+</html>
